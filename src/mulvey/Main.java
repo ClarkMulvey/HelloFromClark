@@ -6,5 +6,9 @@ public class Main {
 
         System.out.println("Hello, my name is Clark.");
 
+        // This is my reply
+        String paulName = "Paul";
+        System.out.printf("Hello Clark, my name is %s.%n", paulName );
+
     }
 }
