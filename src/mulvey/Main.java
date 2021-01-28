@@ -10,5 +10,9 @@ public class Main {
         String paulName = "Paul";
         System.out.printf("Hello Clark, my name is %s.%n", paulName );
 
+        // My reply
+        String myName = "Flavio";
+        System.out.println("Hello Clark, my name is " + myName + "." );
+
     }
 }
