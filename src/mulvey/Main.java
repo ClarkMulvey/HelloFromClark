@@ -10,9 +10,9 @@ public class Main {
         String paulName = "Paul";
         System.out.printf("Hello Clark, my name is %s.%n", paulName );
 
-        // This is my reply
-        String rickName = "Richard";
-        System.out.printf("Hello Clark, my name is %s.%n", rickName);
+        // My reply
+        String myName = "Flavio";
+        System.out.println("Hello Clark, my name is " + myName + "." );
 
     }
 }
