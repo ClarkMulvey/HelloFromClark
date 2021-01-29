@@ -14,5 +14,8 @@ public class Main {
         String myName = "Flavio";
         System.out.println("Hello Clark, my name is " + myName + "." );
 
+        String rickName = "Richard";
+        System.out.printf("Hello Clark, my name is %s.%n", rickName);
+
     }
 }
